@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Sample Customer Photo 2</title>
+  <desc id="desc">Placeholder image for maintenance documentation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1b140b" />
+      <stop offset="50%" stop-color="#5b3f14" />
+      <stop offset="100%" stop-color="#0f5f8d" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)" />
+  <rect x="160" y="120" width="480" height="280" rx="28" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.26)" />
+  <circle cx="270" cy="260" r="64" fill="rgba(255,255,255,0.88)" />
+  <rect x="360" y="212" width="180" height="26" rx="13" fill="rgba(255,255,255,0.78)" />
+  <rect x="360" y="258" width="120" height="22" rx="11" fill="rgba(255,255,255,0.68)" />
+  <rect x="42" y="42" width="180" height="44" rx="22" fill="rgba(7,17,27,0.35)" />
+  <text x="132" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">ORDER 02</text>
+  <text x="400" y="558" fill="#ffffff" font-family="Arial, sans-serif" font-size="34" font-weight="700" text-anchor="middle">Sample Photo Maintenance</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Sample Customer Photo 3</title>
+  <desc id="desc">Placeholder image for sparepart handover documentation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1d2d" />
+      <stop offset="50%" stop-color="#24384d" />
+      <stop offset="100%" stop-color="#f47400" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)" />
+  <rect x="180" y="150" width="440" height="220" rx="32" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.24)" />
+  <rect x="240" y="210" width="140" height="100" rx="22" fill="rgba(255,255,255,0.78)" />
+  <rect x="418" y="196" width="150" height="26" rx="13" fill="rgba(255,255,255,0.78)" />
+  <rect x="418" y="240" width="110" height="22" rx="11" fill="rgba(255,255,255,0.62)" />
+  <rect x="418" y="280" width="130" height="22" rx="11" fill="rgba(255,255,255,0.62)" />
+  <rect x="42" y="42" width="180" height="44" rx="22" fill="rgba(7,17,27,0.35)" />
+  <text x="132" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">ORDER 03</text>
+  <text x="400" y="558" fill="#ffffff" font-family="Arial, sans-serif" font-size="34" font-weight="700" text-anchor="middle">Sample Photo Delivery</text>
+</svg>
